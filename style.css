@@ -1,0 +1,14 @@
+body{
+    background-color: lightcoral;
+}
+.container{
+    width: 50%;
+    background-color: yellow;
+    margin-top: 50px;
+    padding:50px ;
+    border-radius: 20px;
+}
+
+.alert{
+    position: absolute;
+}
